@@ -31,7 +31,7 @@ const Nav = () => {
       <div className='header'>
         <h1>
           <Link activeClass="active" to="home" spy={true} smooth={true} offset={-80} duration={500}>
-            Favour
+            David Marko
           </Link>
         </h1>
         <div onClick={handleClick} className="menu">
